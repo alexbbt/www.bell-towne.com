@@ -1,24 +1,6 @@
 # www.bell-towne.com
 
-## Project setup
-```
-npm install
-```
+This is an index page for bell-towne.com. Since we have a lot of subdomains now, it is
+best to have a single place to link to each of these pages.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+bell-towne.com will redirect to www.bell-towne.com
